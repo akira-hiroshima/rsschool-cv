@@ -1,1 +1,1 @@
-https://akira-hiroshima.github.io/rsschool-cv/cv
+https://akira-hiroshima.github.io/rsschool-cv/
